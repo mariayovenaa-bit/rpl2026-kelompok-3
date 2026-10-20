@@ -2,5 +2,5 @@
 
 Mata Kuliah: Rekayasa Perangkat Lunak
 
-Proyek praktikum ini menggunakan Git dan GitHub
-untuk mengelola kode program secara kolaboratif.
+Repository praktikum ini digunakan untuk belajar Git dan GitHub serta mengelola kode program secara kolaboratif.
+
