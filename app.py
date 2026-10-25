@@ -1,6 +1,5 @@
-
 def main():
-    print("Halo, ini aplikasi utama dari Ketua.")
+    print("Halo, ini aplikasi utama versi terbaru dari Ketua.")
     print("Halo, ini aplikasi utama dari Anggota 1.")
 
 
